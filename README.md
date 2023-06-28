@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 
 - 🔭 I’m currently working on Front-end development
 - 🌱 I’m currently learning NPM, modules, TypeScript and SQL 
