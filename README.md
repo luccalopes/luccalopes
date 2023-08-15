@@ -1,6 +1,6 @@
 ###
 
--  I’m currently working on Front-end development
+-  I’m currently working on Fullstack development (JS) and Data Science (Python)
 -  I’m currently learning NPM, modules, TypeScript and SQL 
 -  I’m looking to collaborate on Web Development, databank and issues solution
 -  I’m looking for help with the first opportunity as a developer, with coding and mentory
